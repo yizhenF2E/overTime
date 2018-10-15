@@ -1,0 +1,9122 @@
+[
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3.3,
+    "week": 4,
+    "dateEnd": 1515079200000,
+    "dateStart": 1515067200000,
+    "department": "互联网研发",
+    "name": "王其凡"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 3.2,
+    "week": 0,
+    "dateEnd": 1516511400000,
+    "dateStart": 1516500000000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 1,
+    "week": 5,
+    "dateEnd": 1516366800000,
+    "dateStart": 1516363200000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 1.3,
+    "week": 4,
+    "dateEnd": 1516281600000,
+    "dateStart": 1516276800000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1516282200000,
+    "dateStart": 1516276800000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 8.5,
+    "week": 5,
+    "dateEnd": 1518208200000,
+    "dateStart": 1518177600000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 2,
+    "dateEnd": 1517324400000,
+    "dateStart": 1517313600000,
+    "department": "互联网研发",
+    "name": "张龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1517407200000,
+    "dateStart": 1517400000000,
+    "department": "互联网研发",
+    "name": "张龙"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 0.3,
+    "week": 2,
+    "dateEnd": 1516105200000,
+    "dateStart": 1516104000000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 4.2,
+    "week": 3,
+    "dateEnd": 1516205400000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 12.5,
+    "week": 4,
+    "dateEnd": 1515112200000,
+    "dateStart": 1515067200000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 3,
+    "dateEnd": 1515546000000,
+    "dateStart": 1515537000000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1515760200000,
+    "dateStart": 1515758400000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1516107600000,
+    "dateStart": 1516104000000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1516624200000,
+    "dateStart": 1516622400000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1517317200000,
+    "dateStart": 1517313600000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 3,
+    "week": 4,
+    "dateEnd": 1515078000000,
+    "dateStart": 1515067200000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.2,
+    "week": 2,
+    "dateEnd": 1517317800000,
+    "dateStart": 1517313600000,
+    "department": "互联网研发",
+    "name": "张宝"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 1,
+    "dateEnd": 1517238000000,
+    "dateStart": 1517227200000,
+    "department": "互联网研发",
+    "name": "张宝"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3,
+    "week": 4,
+    "dateEnd": 1518102000000,
+    "dateStart": 1518091200000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1516280400000,
+    "dateStart": 1516276800000,
+    "department": "互联网研发",
+    "name": "张宝"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1517920200000,
+    "dateStart": 1517918400000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.7,
+    "week": 3,
+    "dateEnd": 1516200000000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "张宝"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 5,
+    "dateEnd": 1517580000000,
+    "dateStart": 1517572800000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1517315400000,
+    "dateStart": 1517313600000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1516624200000,
+    "dateStart": 1516622400000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1516278600000,
+    "dateStart": 1516276800000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1515679200000,
+    "dateStart": 1515672000000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 4,
+    "dateEnd": 1518102000000,
+    "dateStart": 1518091200000,
+    "department": "互联网研发",
+    "name": "李建平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1517920200000,
+    "dateStart": 1517918400000,
+    "department": "互联网研发",
+    "name": "李建平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1517833800000,
+    "dateStart": 1517832000000,
+    "department": "互联网研发",
+    "name": "李建平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1516887000000,
+    "dateStart": 1516881600000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 1,
+    "dateEnd": 1517238000000,
+    "dateStart": 1517227200000,
+    "department": "互联网研发",
+    "name": "李建平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1516280400000,
+    "dateStart": 1516276800000,
+    "department": "互联网研发",
+    "name": "李建平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1517923800000,
+    "dateStart": 1517918400000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1516888800000,
+    "dateStart": 1516881600000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1516201200000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "叶大国"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 6,
+    "dateEnd": 1517049000000,
+    "dateStart": 1517036400000,
+    "department": "互联网研发",
+    "name": "刘慧敏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1516282200000,
+    "dateStart": 1516276800000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 5,
+    "dateEnd": 1516366800000,
+    "dateStart": 1516363200000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1516712400000,
+    "dateStart": 1516708800000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1516626000000,
+    "dateStart": 1516622400000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1516019400000,
+    "dateStart": 1516017600000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1516105800000,
+    "dateStart": 1516104000000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 14,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1516800600000,
+    "dateStart": 1516795200000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4,
+    "week": 3,
+    "dateEnd": 1516204800000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 12.5,
+    "week": 4,
+    "dateEnd": 1515112200000,
+    "dateStart": 1515067200000,
+    "department": "互联网研发",
+    "name": "任玉陶"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1516282200000,
+    "dateStart": 1516276800000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1516365000000,
+    "dateStart": 1516363200000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 11,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1516888800000,
+    "dateStart": 1516881600000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1516710600000,
+    "dateStart": 1516708800000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4,
+    "week": 3,
+    "dateEnd": 1516809600000,
+    "dateStart": 1516795200000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1515673800000,
+    "dateStart": 1515672000000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1516888800000,
+    "dateStart": 1516881600000,
+    "department": "互联网研发",
+    "name": "刘慧敏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1514982600000,
+    "dateStart": 1514980800000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1516798800000,
+    "dateStart": 1516795200000,
+    "department": "互联网研发",
+    "name": "刘慧敏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1515673800000,
+    "dateStart": 1515672000000,
+    "department": "互联网研发",
+    "name": "刘慧敏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1515069000000,
+    "dateStart": 1515067200000,
+    "department": "互联网研发",
+    "name": "王磊"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1516624200000,
+    "dateStart": 1516622400000,
+    "department": "互联网研发",
+    "name": "王磊"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1518094800000,
+    "dateStart": 1518091200000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1515760200000,
+    "dateStart": 1515758400000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 5,
+    "dateEnd": 1516366800000,
+    "dateStart": 1516363200000,
+    "department": "互联网研发",
+    "name": "刘乐"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1516282200000,
+    "dateStart": 1516276800000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1517229000000,
+    "dateStart": 1517227200000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1519736400000,
+    "dateStart": 1519732800000,
+    "department": "互联网研发",
+    "name": "刘乐"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.7,
+    "week": 5,
+    "dateEnd": 1517578800000,
+    "dateStart": 1517572800000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 3,
+    "dateEnd": 1515544200000,
+    "dateStart": 1515535200000,
+    "department": "互联网研发",
+    "name": "王其凡"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1516887000000,
+    "dateStart": 1516881600000,
+    "department": "互联网研发",
+    "name": "王其凡"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1516107600000,
+    "dateStart": 1516104000000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 4,
+    "week": 3,
+    "dateEnd": 1516204800000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 6,
+    "dateEnd": 1515250800000,
+    "dateStart": 1515240000000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1516282200000,
+    "dateStart": 1516276800000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1516806000000,
+    "dateStart": 1516795200000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3.8,
+    "week": 4,
+    "dateEnd": 1516895100000,
+    "dateStart": 1516881600000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1517315400000,
+    "dateStart": 1517313600000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1517488200000,
+    "dateStart": 1517486400000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 1,
+    "dateEnd": 1517837400000,
+    "dateStart": 1517832000000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1516107600000,
+    "dateStart": 1516104000000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4,
+    "week": 3,
+    "dateEnd": 1516204800000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1516365000000,
+    "dateStart": 1516363200000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 5,
+    "week": 6,
+    "dateEnd": 1516438800000,
+    "dateStart": 1516420800000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 8.2,
+    "week": 0,
+    "dateEnd": 1516545600000,
+    "dateStart": 1516516200000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1516710600000,
+    "dateStart": 1516708800000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4,
+    "week": 3,
+    "dateEnd": 1516809600000,
+    "dateStart": 1516795200000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 6,
+    "dateEnd": 1517047200000,
+    "dateStart": 1517034600000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1517920200000,
+    "dateStart": 1517918400000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.7,
+    "week": 2,
+    "dateEnd": 1519735200000,
+    "dateStart": 1519732800000,
+    "department": "互联网研发",
+    "name": "刘玮"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1516712400000,
+    "dateStart": 1516708800000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.2,
+    "week": 3,
+    "dateEnd": 1516810200000,
+    "dateStart": 1516802400000,
+    "department": "互联网研发",
+    "name": "王少鹏"
+  },
+  {
+    "fare": 67,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1516894200000,
+    "dateStart": 1516888800000,
+    "department": "互联网研发",
+    "name": "王少鹏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 5,
+    "dateEnd": 1515157200000,
+    "dateStart": 1515153600000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1516201200000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1516626000000,
+    "dateStart": 1516622400000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 18,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 4,
+    "dateEnd": 1518100200000,
+    "dateStart": 1518091200000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.2,
+    "week": 6,
+    "dateEnd": 1515829200000,
+    "dateStart": 1515821400000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.7,
+    "week": 4,
+    "dateEnd": 1516279200000,
+    "dateStart": 1516276800000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.2,
+    "week": 3,
+    "dateEnd": 1519827000000,
+    "dateStart": 1519819200000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1516019400000,
+    "dateStart": 1516017600000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1516105800000,
+    "dateStart": 1516104000000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3.9,
+    "week": 3,
+    "dateEnd": 1516204500000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1516282200000,
+    "dateStart": 1516276800000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1516710600000,
+    "dateStart": 1516708800000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3.9,
+    "week": 3,
+    "dateEnd": 1516809300000,
+    "dateStart": 1516795200000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1516888800000,
+    "dateStart": 1516881600000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 39,
+    "mealFee": 20,
+    "time": 4.1,
+    "week": 2,
+    "dateEnd": 1516118700000,
+    "dateStart": 1516104000000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4,
+    "week": 3,
+    "dateEnd": 1516809600000,
+    "dateStart": 1516795200000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4.1,
+    "week": 3,
+    "dateEnd": 1516205100000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "任玉陶"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 5.5,
+    "week": 6,
+    "dateEnd": 1516440600000,
+    "dateStart": 1516420800000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 24,
+    "mealFee": 20,
+    "time": 4.1,
+    "week": 3,
+    "dateEnd": 1516809900000,
+    "dateStart": 1516795200000,
+    "department": "互联网研发",
+    "name": "刘乐"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 4.3,
+    "week": 3,
+    "dateEnd": 1516205700000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "刘玮"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 4.2,
+    "week": 3,
+    "dateEnd": 1516810200000,
+    "dateStart": 1516795200000,
+    "department": "互联网研发",
+    "name": "刘玮"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 4.3,
+    "week": 3,
+    "dateEnd": 1516810500000,
+    "dateStart": 1516795200000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 27,
+    "mealFee": 20,
+    "time": 4.2,
+    "week": 3,
+    "dateEnd": 1516205400000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "刘乐"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4,
+    "week": 3,
+    "dateEnd": 1516204800000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 2,
+    "dateEnd": 1515508200000,
+    "dateStart": 1515499200000,
+    "department": "互联网研发",
+    "name": "邓文高"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 4,
+    "week": 3,
+    "dateEnd": 1516204800000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "邓文高"
+  },
+  {
+    "fare": 18,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1517574600000,
+    "dateStart": 1517572800000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 4,
+    "week": 3,
+    "dateEnd": 1516809600000,
+    "dateStart": 1516795200000,
+    "department": "互联网研发",
+    "name": "邓文高"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1516019400000,
+    "dateStart": 1516017600000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 0,
+    "dateEnd": 1515924000000,
+    "dateStart": 1515913200000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 18,
+    "mealFee": 20,
+    "time": 4,
+    "week": 3,
+    "dateEnd": 1516204800000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 13,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1519736400000,
+    "dateStart": 1519732800000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 13,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1516195800000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1516716000000,
+    "dateStart": 1516708800000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 15,
+    "mealFee": 40,
+    "time": 6.7,
+    "week": 2,
+    "dateEnd": 1517337600000,
+    "dateStart": 1517313600000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 13,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1517410800000,
+    "dateStart": 1517400000000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1518094800000,
+    "dateStart": 1518091200000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 19,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1516716000000,
+    "dateStart": 1516708800000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1515675600000,
+    "dateStart": 1515672000000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1516021200000,
+    "dateStart": 1516017600000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1516282200000,
+    "dateStart": 1516276800000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 4,
+    "week": 3,
+    "dateEnd": 1516204800000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1516712400000,
+    "dateStart": 1516708800000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 4.5,
+    "week": 3,
+    "dateEnd": 1516811400000,
+    "dateStart": 1516795200000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1516887000000,
+    "dateStart": 1516881600000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1517317200000,
+    "dateStart": 1517313600000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1517922000000,
+    "dateStart": 1517918400000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 1,
+    "week": 5,
+    "dateEnd": 1518181200000,
+    "dateStart": 1518177600000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1518015600000,
+    "dateStart": 1518004800000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 2,
+    "dateEnd": 1516113000000,
+    "dateStart": 1516104000000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 2,
+    "week": 1,
+    "dateEnd": 1516629600000,
+    "dateStart": 1516622400000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 3,
+    "dateEnd": 1515544200000,
+    "dateStart": 1515535200000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1515504600000,
+    "dateStart": 1515499200000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1515589200000,
+    "dateStart": 1515585600000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 5,
+    "dateEnd": 1515765600000,
+    "dateStart": 1515758400000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 5,
+    "dateEnd": 1515157200000,
+    "dateStart": 1515153600000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.7,
+    "week": 4,
+    "dateEnd": 1516279200000,
+    "dateStart": 1516276800000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1516716000000,
+    "dateStart": 1516708800000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 2,
+    "dateEnd": 1515508200000,
+    "dateStart": 1515499200000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1516192200000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1516716000000,
+    "dateStart": 1516708800000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 7,
+    "week": 2,
+    "dateEnd": 1517338800000,
+    "dateStart": 1517313600000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1518010200000,
+    "dateStart": 1518004800000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1519740000000,
+    "dateStart": 1519732800000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 11,
+    "week": 6,
+    "dateEnd": 1515848400000,
+    "dateStart": 1515808800000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1516107600000,
+    "dateStart": 1516104000000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1516280400000,
+    "dateStart": 1516276800000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 5,
+    "dateEnd": 1516366800000,
+    "dateStart": 1516363200000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1516626000000,
+    "dateStart": 1516622400000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1516712400000,
+    "dateStart": 1516708800000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1516885200000,
+    "dateStart": 1516881600000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 8,
+    "week": 6,
+    "dateEnd": 1517058000000,
+    "dateStart": 1517029200000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1517230800000,
+    "dateStart": 1517227200000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1517317200000,
+    "dateStart": 1517313600000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1517403600000,
+    "dateStart": 1517400000000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 5,
+    "dateEnd": 1517580000000,
+    "dateStart": 1517572800000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 11,
+    "week": 6,
+    "dateEnd": 1517662800000,
+    "dateStart": 1517623200000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1517835600000,
+    "dateStart": 1517832000000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1518008400000,
+    "dateStart": 1518004800000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3,
+    "week": 4,
+    "dateEnd": 1518102000000,
+    "dateStart": 1518091200000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 5,
+    "dateEnd": 1518181200000,
+    "dateStart": 1518177600000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 13,
+    "week": 6,
+    "dateEnd": 1518274800000,
+    "dateStart": 1518228000000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 7.5,
+    "week": 6,
+    "dateEnd": 1520071200000,
+    "dateStart": 1520044200000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 5.5,
+    "week": 6,
+    "dateEnd": 1515232800000,
+    "dateStart": 1515213000000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 1,
+    "dateEnd": 1515418200000,
+    "dateStart": 1515412800000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1515501000000,
+    "dateStart": 1515499200000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1515673800000,
+    "dateStart": 1515672000000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 7.5,
+    "week": 6,
+    "dateEnd": 1515844800000,
+    "dateStart": 1515817800000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 0,
+    "dateEnd": 1515924000000,
+    "dateStart": 1515913200000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1516195800000,
+    "dateStart": 1516190400000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1516282200000,
+    "dateStart": 1516276800000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 5,
+    "dateEnd": 1516368600000,
+    "dateStart": 1516363200000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1516797000000,
+    "dateStart": 1516795200000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 40,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 2,
+    "dateEnd": 1516113000000,
+    "dateStart": 1516104000000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 7,
+    "week": 6,
+    "dateEnd": 1517657400000,
+    "dateStart": 1517632200000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1517835600000,
+    "dateStart": 1517832000000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1517923800000,
+    "dateStart": 1517918400000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 40,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1518012000000,
+    "dateStart": 1518004800000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1519734600000,
+    "dateStart": 1519732800000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1519822800000,
+    "dateStart": 1519819200000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1519740000000,
+    "dateStart": 1519732800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 5,
+    "week": 0,
+    "dateEnd": 1519549200000,
+    "dateStart": 1519531200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 1,
+    "dateEnd": 1518444000000,
+    "dateStart": 1518436800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1518530400000,
+    "dateStart": 1518523200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 7,
+    "week": 6,
+    "dateEnd": 1518256800000,
+    "dateStart": 1518231600000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1518098400000,
+    "dateStart": 1518091200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1517925600000,
+    "dateStart": 1517918400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 5,
+    "week": 0,
+    "dateEnd": 1517734800000,
+    "dateStart": 1517716800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 5,
+    "dateEnd": 1515162600000,
+    "dateStart": 1515153600000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 8.5,
+    "week": 6,
+    "dateEnd": 1515236400000,
+    "dateStart": 1515205800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1515769200000,
+    "dateStart": 1515758400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1515592800000,
+    "dateStart": 1515585600000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 8.5,
+    "week": 6,
+    "dateEnd": 1517655600000,
+    "dateStart": 1517625000000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1517493600000,
+    "dateStart": 1517486400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 6,
+    "week": 6,
+    "dateEnd": 1517043600000,
+    "dateStart": 1517022000000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3,
+    "week": 2,
+    "dateEnd": 1516719600000,
+    "dateStart": 1516708800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 8,
+    "week": 0,
+    "dateEnd": 1516532400000,
+    "dateStart": 1516503600000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3,
+    "week": 4,
+    "dateEnd": 1516287600000,
+    "dateStart": 1516276800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 1,
+    "dateEnd": 1516026600000,
+    "dateStart": 1516017600000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 7,
+    "week": 0,
+    "dateEnd": 1515924000000,
+    "dateStart": 1515898800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 4,
+    "dateEnd": 1515682800000,
+    "dateStart": 1515672000000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 8,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1516797000000,
+    "dateStart": 1516795200000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1519389000000,
+    "dateStart": 1519387200000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 12,
+    "week": 0,
+    "dateEnd": 1520173800000,
+    "dateStart": 1520130600000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1522245600000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "李建平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 6,
+    "week": 6,
+    "dateEnd": 1520076600000,
+    "dateStart": 1520055000000,
+    "department": "互联网研发",
+    "name": "王少鹏"
+  },
+  {
+    "fare": 8,
+    "mealFee": 20,
+    "time": 4,
+    "week": 5,
+    "dateEnd": 1520006400000,
+    "dateStart": 1519992000000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 8,
+    "mealFee": 20,
+    "time": 4.5,
+    "week": 6,
+    "dateEnd": 1520058600000,
+    "dateStart": 1520042400000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 8,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1521817200000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 8,
+    "mealFee": 20,
+    "time": 4,
+    "week": 2,
+    "dateEnd": 1522166400000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1522240200000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1522332000000,
+    "dateStart": 1522324800000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1520341200000,
+    "dateStart": 1520337600000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 4,
+    "week": 2,
+    "dateEnd": 1522166400000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 4,
+    "dateEnd": 1519914600000,
+    "dateStart": 1519905600000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 8.5,
+    "week": 0,
+    "dateEnd": 1520159400000,
+    "dateStart": 1520128800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 18,
+    "mealFee": 40,
+    "time": 7,
+    "week": 0,
+    "dateEnd": 1520760600000,
+    "dateStart": 1520735400000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3,
+    "week": 2,
+    "dateEnd": 1520348400000,
+    "dateStart": 1520337600000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 5,
+    "dateEnd": 1520609400000,
+    "dateStart": 1520596800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1520859600000,
+    "dateStart": 1520856000000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1521817200000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "黄康"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 7,
+    "week": 6,
+    "dateEnd": 1520677800000,
+    "dateStart": 1520652600000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 2,
+    "dateEnd": 1520955000000,
+    "dateStart": 1520942400000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 18,
+    "mealFee": 40,
+    "time": 6,
+    "week": 3,
+    "dateEnd": 1521050400000,
+    "dateStart": 1521028800000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1520425800000,
+    "dateStart": 1520424000000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 10,
+    "mealFee": 0,
+    "time": 1,
+    "week": 5,
+    "dateEnd": 1521766800000,
+    "dateStart": 1521763200000,
+    "department": "互联网研发",
+    "name": "赵俊强"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 2,
+    "week": 5,
+    "dateEnd": 1520604000000,
+    "dateStart": 1520596800000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1520857800000,
+    "dateStart": 1520856000000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1520946000000,
+    "dateStart": 1520942400000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1521118800000,
+    "dateStart": 1521115200000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1521721800000,
+    "dateStart": 1521720000000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1521817200000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1522067400000,
+    "dateStart": 1522065600000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1520343000000,
+    "dateStart": 1520337600000,
+    "department": "互联网研发",
+    "name": "张宝"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1522159200000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1522067400000,
+    "dateStart": 1522065600000,
+    "department": "互联网研发",
+    "name": "张宝"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1522330200000,
+    "dateStart": 1522324800000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 22,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1520341200000,
+    "dateStart": 1520337600000,
+    "department": "互联网研发",
+    "name": "李杰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1522159200000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "张宝"
+  },
+  {
+    "fare": 22,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1521554400000,
+    "dateStart": 1521547200000,
+    "department": "互联网研发",
+    "name": "李杰"
+  },
+  {
+    "fare": 22,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1521727200000,
+    "dateStart": 1521720000000,
+    "department": "互联网研发",
+    "name": "李杰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1522245600000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "张宝"
+  },
+  {
+    "fare": 22,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1522245600000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "李杰"
+  },
+  {
+    "fare": 22,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1522330200000,
+    "dateStart": 1522324800000,
+    "department": "互联网研发",
+    "name": "李杰"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1522159200000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "王其凡"
+  },
+  {
+    "fare": 40,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1520343000000,
+    "dateStart": 1520337600000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 18,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1520425800000,
+    "dateStart": 1520424000000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1520425800000,
+    "dateStart": 1520424000000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1520512200000,
+    "dateStart": 1520510400000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1520857800000,
+    "dateStart": 1520856000000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 3,
+    "week": 2,
+    "dateEnd": 1520953200000,
+    "dateStart": 1520942400000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 2,
+    "dateEnd": 1520953200000,
+    "dateStart": 1520942400000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 40,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1521030600000,
+    "dateStart": 1521028800000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1521635400000,
+    "dateStart": 1521633600000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1522067400000,
+    "dateStart": 1522065600000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 0,
+    "dateEnd": 1521379800000,
+    "dateStart": 1521370800000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1522155600000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1522245600000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1522328400000,
+    "dateStart": 1522324800000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 40,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1521817200000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1522067400000,
+    "dateStart": 1522065600000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1521203400000,
+    "dateStart": 1521201600000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1521725400000,
+    "dateStart": 1521720000000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1522155600000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1522245600000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1522330200000,
+    "dateStart": 1522324800000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 5,
+    "dateEnd": 1519986600000,
+    "dateStart": 1519977600000,
+    "department": "互联网研发",
+    "name": "张源涛"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 9.5,
+    "week": 6,
+    "dateEnd": 1520076600000,
+    "dateStart": 1520042400000,
+    "department": "互联网研发",
+    "name": "张源涛"
+  },
+  {
+    "fare": 40,
+    "mealFee": 40,
+    "time": 9.5,
+    "week": 6,
+    "dateEnd": 1520076600000,
+    "dateStart": 1520042400000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 40,
+    "mealFee": 40,
+    "time": 9,
+    "week": 0,
+    "dateEnd": 1520173800000,
+    "dateStart": 1520141400000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 4,
+    "week": 6,
+    "dateEnd": 1521885600000,
+    "dateStart": 1521871200000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 40,
+    "mealFee": 40,
+    "time": 11,
+    "week": 0,
+    "dateEnd": 1521986400000,
+    "dateStart": 1521946800000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1521817200000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1522069200000,
+    "dateStart": 1522065600000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1522157400000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1522245600000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 6.5,
+    "week": 6,
+    "dateEnd": 1520674200000,
+    "dateStart": 1520650800000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1520857800000,
+    "dateStart": 1520856000000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 2,
+    "dateEnd": 1520953200000,
+    "dateStart": 1520942400000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 16,
+    "mealFee": 20,
+    "time": 5,
+    "week": 3,
+    "dateEnd": 1521046800000,
+    "dateStart": 1521028800000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 16,
+    "mealFee": 20,
+    "time": 3,
+    "week": 4,
+    "dateEnd": 1521126000000,
+    "dateStart": 1521115200000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 13,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1521554400000,
+    "dateStart": 1521547200000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 5,
+    "dateEnd": 1521205200000,
+    "dateStart": 1521201600000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1522069200000,
+    "dateStart": 1522065600000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 21,
+    "mealFee": 20,
+    "time": 3,
+    "week": 2,
+    "dateEnd": 1522162800000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1521817200000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "刘慧敏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1522413000000,
+    "dateStart": 1522411200000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 11.5,
+    "week": 0,
+    "dateEnd": 1522593000000,
+    "dateStart": 1522551600000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 25,
+    "mealFee": 40,
+    "time": 7,
+    "week": 0,
+    "dateEnd": 1520152200000,
+    "dateStart": 1520127000000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1521817200000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 2,
+    "dateEnd": 1522161000000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 3,
+    "dateEnd": 1522247400000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1522413000000,
+    "dateStart": 1522411200000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1522330200000,
+    "dateStart": 1522324800000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1521817200000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "纪楠"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 4,
+    "dateEnd": 1521127800000,
+    "dateStart": 1521115200000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 5,
+    "dateEnd": 1521207000000,
+    "dateStart": 1521201600000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 19,
+    "mealFee": 40,
+    "time": 11,
+    "week": 2,
+    "dateEnd": 1521586800000,
+    "dateStart": 1521547200000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 0,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1521203400000,
+    "dateStart": 1521201600000,
+    "department": "互联网研发",
+    "name": "邓文高"
+  },
+  {
+    "fare": 8,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1521817200000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 0,
+    "time": 1.5,
+    "week": 1,
+    "dateEnd": 1521466200000,
+    "dateStart": 1521460800000,
+    "department": "互联网研发",
+    "name": "邓文高"
+  },
+  {
+    "fare": 13,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1521817200000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "邓文高"
+  },
+  {
+    "fare": 0,
+    "mealFee": 0,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1522069200000,
+    "dateStart": 1522065600000,
+    "department": "互联网研发",
+    "name": "邓文高"
+  },
+  {
+    "fare": 13,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 2,
+    "dateEnd": 1522161000000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "邓文高"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 6,
+    "week": 6,
+    "dateEnd": 1520674200000,
+    "dateStart": 1520652600000,
+    "department": "互联网研发",
+    "name": "刘乐"
+  },
+  {
+    "fare": 13,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 3,
+    "dateEnd": 1522247400000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "邓文高"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 2,
+    "dateEnd": 1520953200000,
+    "dateStart": 1520942400000,
+    "department": "互联网研发",
+    "name": "刘乐"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1522155600000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "刘乐"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 3,
+    "dateEnd": 1522247400000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "刘乐"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 4,
+    "week": 5,
+    "dateEnd": 1520006400000,
+    "dateStart": 1519992000000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4.5,
+    "week": 6,
+    "dateEnd": 1520058600000,
+    "dateStart": 1520042400000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 5,
+    "dateEnd": 1521810000000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 6,
+    "week": 6,
+    "dateEnd": 1521880200000,
+    "dateStart": 1521858600000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1521817200000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 5,
+    "dateEnd": 1521205200000,
+    "dateStart": 1521201600000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1521464400000,
+    "dateStart": 1521460800000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1521550800000,
+    "dateStart": 1521547200000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1521725400000,
+    "dateStart": 1521720000000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1522159200000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1522326600000,
+    "dateStart": 1522324800000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 5,
+    "dateEnd": 1520602200000,
+    "dateStart": 1520596800000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 1,
+    "dateEnd": 1522076400000,
+    "dateStart": 1522065600000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 3,
+    "dateEnd": 1522247400000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1522672200000,
+    "dateStart": 1522670400000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1519993800000,
+    "dateStart": 1519992000000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1520341200000,
+    "dateStart": 1520337600000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1521117000000,
+    "dateStart": 1521115200000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1521725400000,
+    "dateStart": 1521720000000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1521817200000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1522159200000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1522245600000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 5,
+    "dateEnd": 1521811800000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4.5,
+    "week": 6,
+    "dateEnd": 1521891000000,
+    "dateStart": 1521874800000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1522069200000,
+    "dateStart": 1522065600000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 2,
+    "dateEnd": 1522161000000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1521039600000,
+    "dateStart": 1521028800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 7,
+    "week": 6,
+    "dateEnd": 1521280800000,
+    "dateStart": 1521255600000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 3,
+    "dateEnd": 1522247400000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 2,
+    "dateEnd": 1521556200000,
+    "dateStart": 1521547200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 5,
+    "dateEnd": 1521819000000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 7.5,
+    "week": 6,
+    "dateEnd": 1521887400000,
+    "dateStart": 1521860400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1522245600000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "王其凡"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 6,
+    "dateEnd": 1521856800000,
+    "dateStart": 1521853200000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1522159200000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1520344800000,
+    "dateStart": 1520337600000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 6,
+    "dateEnd": 1522465200000,
+    "dateStart": 1522458000000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1521721800000,
+    "dateStart": 1521720000000,
+    "department": "互联网研发",
+    "name": "王磊"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1522243800000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "王磊"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1522067400000,
+    "dateStart": 1522065600000,
+    "department": "互联网研发",
+    "name": "任玉陶"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 3,
+    "dateEnd": 1522251000000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "任玉陶"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 6,
+    "week": 6,
+    "dateEnd": 1520668800000,
+    "dateStart": 1520647200000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1520341200000,
+    "dateStart": 1520337600000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 5,
+    "dateEnd": 1520600400000,
+    "dateStart": 1520596800000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1520857800000,
+    "dateStart": 1520856000000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 2,
+    "dateEnd": 1520955000000,
+    "dateStart": 1520942400000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 5,
+    "week": 3,
+    "dateEnd": 1521046800000,
+    "dateStart": 1521028800000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 4,
+    "dateEnd": 1521126000000,
+    "dateStart": 1521115200000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 5,
+    "dateEnd": 1521205200000,
+    "dateStart": 1521201600000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 1,
+    "dateEnd": 1521468000000,
+    "dateStart": 1521460800000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 12,
+    "week": 2,
+    "dateEnd": 1521590400000,
+    "dateStart": 1521547200000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4,
+    "week": 2,
+    "dateEnd": 1522166400000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1522326600000,
+    "dateStart": 1522324800000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1522159200000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "刘玮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1522245600000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "刘玮"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1521817200000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 5,
+    "dateEnd": 1521811800000,
+    "dateStart": 1521806400000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1522069200000,
+    "dateStart": 1522065600000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1522155600000,
+    "dateStart": 1522152000000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1522245600000,
+    "dateStart": 1522238400000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 6,
+    "dateEnd": 1522477800000,
+    "dateStart": 1522467000000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1522069200000,
+    "dateStart": 1522065600000,
+    "department": "互联网研发",
+    "name": "李晓辉"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 2,
+    "dateEnd": 1523374200000,
+    "dateStart": 1523361600000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 5,
+    "dateEnd": 1523633400000,
+    "dateStart": 1523620800000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 11,
+    "week": 6,
+    "dateEnd": 1523716200000,
+    "dateStart": 1523676600000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": null,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1524141000000,
+    "dateStart": 1524139200000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 5,
+    "dateEnd": 1524232800000,
+    "dateStart": 1524225600000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 9,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1522762200000,
+    "dateStart": 1522756800000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 9,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 1,
+    "dateEnd": 1523284200000,
+    "dateStart": 1523275200000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 9,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1523363400000,
+    "dateStart": 1523361600000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 53,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 3,
+    "dateEnd": 1523457000000,
+    "dateStart": 1523448000000,
+    "department": "互联网研发",
+    "name": "王少鹏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 5,
+    "dateEnd": 1524231000000,
+    "dateStart": 1524225600000,
+    "department": "互联网研发",
+    "name": "王少鹏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1524749400000,
+    "dateStart": 1524744000000,
+    "department": "互联网研发",
+    "name": "王少鹏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1525269600000,
+    "dateStart": 1525262400000,
+    "department": "互联网研发",
+    "name": "曹琛"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 3,
+    "dateEnd": 1523457000000,
+    "dateStart": 1523448000000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 3,
+    "dateEnd": 1523457000000,
+    "dateStart": 1523448000000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1523277000000,
+    "dateStart": 1523275200000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 21,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1523367000000,
+    "dateStart": 1523361600000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1523455200000,
+    "dateStart": 1523448000000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0,
+    "week": 2,
+    "dateEnd": 1523966400000,
+    "dateStart": 1523966400000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1524058200000,
+    "dateStart": 1524052800000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0,
+    "week": 4,
+    "dateEnd": 1524139200000,
+    "dateStart": 1524139200000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 23,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1524745800000,
+    "dateStart": 1524744000000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1523539800000,
+    "dateStart": 1523534400000,
+    "department": "互联网研发",
+    "name": "李建平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1525356000000,
+    "dateStart": 1525348800000,
+    "department": "互联网研发",
+    "name": "李建平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1524751200000,
+    "dateStart": 1524744000000,
+    "department": "互联网研发",
+    "name": "张龙"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 1,
+    "dateEnd": 1522675800000,
+    "dateStart": 1522670400000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 1,
+    "week": 0,
+    "dateEnd": 1523192400000,
+    "dateStart": 1523188800000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1523277000000,
+    "dateStart": 1523275200000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1523363400000,
+    "dateStart": 1523361600000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1523538000000,
+    "dateStart": 1523534400000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1523622600000,
+    "dateStart": 1523620800000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1523971800000,
+    "dateStart": 1523966400000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1524060000000,
+    "dateStart": 1524052800000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1524141000000,
+    "dateStart": 1524139200000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1524573000000,
+    "dateStart": 1524571200000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1524661200000,
+    "dateStart": 1524657600000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1524745800000,
+    "dateStart": 1524744000000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1524832200000,
+    "dateStart": 1524830400000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1523277000000,
+    "dateStart": 1523275200000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1523365200000,
+    "dateStart": 1523361600000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 18,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1524661200000,
+    "dateStart": 1524657600000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 28,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1524054600000,
+    "dateStart": 1524052800000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1524574800000,
+    "dateStart": 1524571200000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 13,
+    "mealFee": 20,
+    "time": 4,
+    "week": 1,
+    "dateEnd": 1522684800000,
+    "dateStart": 1522670400000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 17,
+    "mealFee": 20,
+    "time": 5,
+    "week": 2,
+    "dateEnd": 1522774800000,
+    "dateStart": 1522756800000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1524060000000,
+    "dateStart": 1524052800000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 13,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1523455200000,
+    "dateStart": 1523448000000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1524663000000,
+    "dateStart": 1524657600000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 11,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1524749400000,
+    "dateStart": 1524744000000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 3,
+    "dateEnd": 1523457000000,
+    "dateStart": 1523448000000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 4,
+    "dateEnd": 1522938600000,
+    "dateStart": 1522929600000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 8,
+    "week": 6,
+    "dateEnd": 1523098800000,
+    "dateStart": 1523070000000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 1,
+    "dateEnd": 1523282400000,
+    "dateStart": 1523275200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1523541600000,
+    "dateStart": 1523534400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 9,
+    "week": 6,
+    "dateEnd": 1523703600000,
+    "dateStart": 1523671200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3,
+    "week": 2,
+    "dateEnd": 1523977200000,
+    "dateStart": 1523966400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 8,
+    "week": 6,
+    "dateEnd": 1524304800000,
+    "dateStart": 1524276000000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 8,
+    "week": 0,
+    "dateEnd": 1524394800000,
+    "dateStart": 1524366000000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1524578400000,
+    "dateStart": 1524571200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 7,
+    "week": 6,
+    "dateEnd": 1524909600000,
+    "dateStart": 1524884400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1524832200000,
+    "dateStart": 1524830400000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1524060000000,
+    "dateStart": 1524052800000,
+    "department": "互联网研发",
+    "name": "李杰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 7,
+    "week": 6,
+    "dateEnd": 1524299400000,
+    "dateStart": 1524274200000,
+    "department": "互联网研发",
+    "name": "李杰"
+  },
+  {
+    "fare": 13,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1523453400000,
+    "dateStart": 1523448000000,
+    "department": "互联网研发",
+    "name": "邓文高"
+  },
+  {
+    "fare": 31,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1523455200000,
+    "dateStart": 1523448000000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 13,
+    "mealFee": 20,
+    "time": 4,
+    "week": 5,
+    "dateEnd": 1523635200000,
+    "dateStart": 1523620800000,
+    "department": "互联网研发",
+    "name": "邓文高"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1524141000000,
+    "dateStart": 1524139200000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 5,
+    "dateEnd": 1524234600000,
+    "dateStart": 1524225600000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 0,
+    "dateEnd": 1522573200000,
+    "dateStart": 1522562400000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 1,
+    "dateEnd": 1522677600000,
+    "dateStart": 1522670400000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 6,
+    "dateEnd": 1524297600000,
+    "dateStart": 1524294000000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1524751200000,
+    "dateStart": 1524744000000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1523455200000,
+    "dateStart": 1523448000000,
+    "department": "互联网研发",
+    "name": "刘玮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1523455200000,
+    "dateStart": 1523448000000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 24,
+    "mealFee": 40,
+    "time": 5.5,
+    "week": 2,
+    "dateEnd": 1522776600000,
+    "dateStart": 1522756800000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 0,
+    "dateEnd": 1523190600000,
+    "dateStart": 1523188800000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1524060000000,
+    "dateStart": 1524052800000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 23,
+    "mealFee": 40,
+    "time": 6.5,
+    "week": 6,
+    "dateEnd": 1524321000000,
+    "dateStart": 1524297600000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 0,
+    "dateEnd": 1524367800000,
+    "dateStart": 1524358800000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 3,
+    "dateEnd": 1524666600000,
+    "dateStart": 1524657600000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1524751200000,
+    "dateStart": 1524744000000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 4,
+    "week": 1,
+    "dateEnd": 1522684800000,
+    "dateStart": 1522670400000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 8,
+    "week": 6,
+    "dateEnd": 1525516200000,
+    "dateStart": 1525487400000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 7.5,
+    "week": 0,
+    "dateEnd": 1525602600000,
+    "dateStart": 1525575600000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 1,
+    "dateEnd": 1525699800000,
+    "dateStart": 1525694400000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1523455200000,
+    "dateStart": 1523448000000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 6,
+    "week": 0,
+    "dateEnd": 1523781000000,
+    "dateStart": 1523759400000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 13,
+    "week": 3,
+    "dateEnd": 1524058200000,
+    "dateStart": 1524011400000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 6,
+    "dateEnd": 1524290400000,
+    "dateStart": 1524277800000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1524745800000,
+    "dateStart": 1524744000000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1524832200000,
+    "dateStart": 1524830400000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 1,
+    "dateEnd": 1525705200000,
+    "dateStart": 1525694400000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4,
+    "week": 1,
+    "dateEnd": 1522684800000,
+    "dateStart": 1522670400000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 5.5,
+    "week": 2,
+    "dateEnd": 1522776600000,
+    "dateStart": 1522756800000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1524663000000,
+    "dateStart": 1524657600000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1523539800000,
+    "dateStart": 1523534400000,
+    "department": "互联网研发",
+    "name": "张宝"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 0,
+    "dateEnd": 1523192400000,
+    "dateStart": 1523188800000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1523451600000,
+    "dateStart": 1523448000000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1523538000000,
+    "dateStart": 1523534400000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1523970000000,
+    "dateStart": 1523966400000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1524142800000,
+    "dateStart": 1524139200000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 2,
+    "week": 5,
+    "dateEnd": 1524232800000,
+    "dateStart": 1524225600000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1524488400000,
+    "dateStart": 1524484800000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1524060000000,
+    "dateStart": 1524052800000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 40,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1523455200000,
+    "dateStart": 1523448000000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 40,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 1,
+    "dateEnd": 1523885400000,
+    "dateStart": 1523880000000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 40,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 1,
+    "dateEnd": 1524490200000,
+    "dateStart": 1524484800000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 40,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1523538000000,
+    "dateStart": 1523534400000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 1,
+    "dateEnd": 1525703400000,
+    "dateStart": 1525694400000,
+    "department": "互联网研发",
+    "name": "李建平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1525878000000,
+    "dateStart": 1525867200000,
+    "department": "互联网研发",
+    "name": "李建平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1525960800000,
+    "dateStart": 1525953600000,
+    "department": "互联网研发",
+    "name": "李建平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1525437000000,
+    "dateStart": 1525435200000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1525698000000,
+    "dateStart": 1525694400000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 40,
+    "mealFee": 20,
+    "time": 3,
+    "week": 4,
+    "dateEnd": 1525964400000,
+    "dateStart": 1525953600000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1526301000000,
+    "dateStart": 1526299200000,
+    "department": "互联网研发",
+    "name": "李建平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1526907600000,
+    "dateStart": 1526904000000,
+    "department": "互联网研发",
+    "name": "李建平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1527084000000,
+    "dateStart": 1527076800000,
+    "department": "互联网研发",
+    "name": "王少鹏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1527168600000,
+    "dateStart": 1527163200000,
+    "department": "互联网研发",
+    "name": "王少鹏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 6.5,
+    "week": 6,
+    "dateEnd": 1526121000000,
+    "dateStart": 1526097600000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1526301000000,
+    "dateStart": 1526299200000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1526387400000,
+    "dateStart": 1526385600000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1526992200000,
+    "dateStart": 1526990400000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 10,
+    "week": 0,
+    "dateEnd": 1527424200000,
+    "dateStart": 1527388200000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 9,
+    "week": 6,
+    "dateEnd": 1527327000000,
+    "dateStart": 1527294600000,
+    "department": "互联网研发",
+    "name": "黄康"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1527168600000,
+    "dateStart": 1527163200000,
+    "department": "互联网研发",
+    "name": "任玉陶"
+  },
+  {
+    "fare": 23,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1527771600000,
+    "dateStart": 1527768000000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 6.5,
+    "week": 6,
+    "dateEnd": 1527323400000,
+    "dateStart": 1527300000000,
+    "department": "互联网研发",
+    "name": "李杰"
+  },
+  {
+    "fare": 18,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1525955400000,
+    "dateStart": 1525953600000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 18,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 4,
+    "dateEnd": 1527172200000,
+    "dateStart": 1527163200000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1527168600000,
+    "dateStart": 1527163200000,
+    "department": "互联网研发",
+    "name": "王磊"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1525960800000,
+    "dateStart": 1525953600000,
+    "department": "互联网研发",
+    "name": "王其凡"
+  },
+  {
+    "fare": 11,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1527168600000,
+    "dateStart": 1527163200000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1527166800000,
+    "dateStart": 1527163200000,
+    "department": "互联网研发",
+    "name": "王其凡"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1527769800000,
+    "dateStart": 1527768000000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 9.5,
+    "week": 6,
+    "dateEnd": 1527334200000,
+    "dateStart": 1527300000000,
+    "department": "互联网研发",
+    "name": "王其凡"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 9,
+    "week": 0,
+    "dateEnd": 1527422400000,
+    "dateStart": 1527390000000,
+    "department": "互联网研发",
+    "name": "王其凡"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1527597000000,
+    "dateStart": 1527595200000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1527597000000,
+    "dateStart": 1527595200000,
+    "department": "互联网研发",
+    "name": "王其凡"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1527771600000,
+    "dateStart": 1527768000000,
+    "department": "互联网研发",
+    "name": "王其凡"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 6,
+    "week": 6,
+    "dateEnd": 1526720400000,
+    "dateStart": 1526698800000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1526994000000,
+    "dateStart": 1526990400000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1527078600000,
+    "dateStart": 1527076800000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1526907600000,
+    "dateStart": 1526904000000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1526994000000,
+    "dateStart": 1526990400000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1527166800000,
+    "dateStart": 1527163200000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1527084000000,
+    "dateStart": 1527076800000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 14,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1525874400000,
+    "dateStart": 1525867200000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1526387400000,
+    "dateStart": 1526385600000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 17,
+    "mealFee": 20,
+    "time": 4,
+    "week": 3,
+    "dateEnd": 1526486400000,
+    "dateStart": 1526472000000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1526646600000,
+    "dateStart": 1526644800000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 12,
+    "week": 6,
+    "dateEnd": 1526736600000,
+    "dateStart": 1526693400000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 13,
+    "mealFee": 20,
+    "time": 5.5,
+    "week": 2,
+    "dateEnd": 1527010200000,
+    "dateStart": 1526990400000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1527084000000,
+    "dateStart": 1527076800000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1527769800000,
+    "dateStart": 1527768000000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 8,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1525437000000,
+    "dateStart": 1525435200000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 14,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1525874400000,
+    "dateStart": 1525867200000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 16,
+    "mealFee": 20,
+    "time": 4,
+    "week": 3,
+    "dateEnd": 1526486400000,
+    "dateStart": 1526472000000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 8,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1526905800000,
+    "dateStart": 1526904000000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 21,
+    "mealFee": 40,
+    "time": 5.5,
+    "week": 2,
+    "dateEnd": 1527010200000,
+    "dateStart": 1526990400000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 8,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1527087600000,
+    "dateStart": 1527076800000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 8,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1527165000000,
+    "dateStart": 1527163200000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1525874400000,
+    "dateStart": 1525867200000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1526907600000,
+    "dateStart": 1526904000000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1525874400000,
+    "dateStart": 1525867200000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 25,
+    "mealFee": 40,
+    "time": 8,
+    "week": 0,
+    "dateEnd": 1527426000000,
+    "dateStart": 1527397200000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1526995800000,
+    "dateStart": 1526990400000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 14,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1527168600000,
+    "dateStart": 1527163200000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1526646600000,
+    "dateStart": 1526644800000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 6.5,
+    "week": 6,
+    "dateEnd": 1526724000000,
+    "dateStart": 1526700600000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1526994000000,
+    "dateStart": 1526990400000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1527078600000,
+    "dateStart": 1527076800000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1526992200000,
+    "dateStart": 1526990400000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1527597000000,
+    "dateStart": 1527595200000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1527078600000,
+    "dateStart": 1527076800000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1527771600000,
+    "dateStart": 1527768000000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1527168600000,
+    "dateStart": 1527163200000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1527166800000,
+    "dateStart": 1527163200000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4,
+    "week": 6,
+    "dateEnd": 1527337800000,
+    "dateStart": 1527323400000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 0,
+    "dateEnd": 1527422400000,
+    "dateStart": 1527417000000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1527512400000,
+    "dateStart": 1527508800000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1527771600000,
+    "dateStart": 1527768000000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1528201800000,
+    "dateStart": 1528200000000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1528374600000,
+    "dateStart": 1528372800000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 17,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1525869000000,
+    "dateStart": 1525867200000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 4,
+    "week": 3,
+    "dateEnd": 1526486400000,
+    "dateStart": 1526472000000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 17,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1526905800000,
+    "dateStart": 1526904000000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 17,
+    "mealFee": 20,
+    "time": 5.5,
+    "week": 2,
+    "dateEnd": 1527010200000,
+    "dateStart": 1526990400000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 21,
+    "mealFee": 40,
+    "time": 6.5,
+    "week": 3,
+    "dateEnd": 1527100200000,
+    "dateStart": 1527076800000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1525784400000,
+    "dateStart": 1525780800000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1527168600000,
+    "dateStart": 1527163200000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1526301000000,
+    "dateStart": 1526299200000,
+    "department": "互联网研发",
+    "name": "张宝"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1526473800000,
+    "dateStart": 1526472000000,
+    "department": "互联网研发",
+    "name": "张宝"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 12.5,
+    "week": 1,
+    "dateEnd": 1522672200000,
+    "dateStart": 1522627200000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1523453400000,
+    "dateStart": 1523448000000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1523538000000,
+    "dateStart": 1523534400000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1524054600000,
+    "dateStart": 1524052800000,
+    "department": "互联网研发",
+    "name": "陈浩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 2,
+    "dateEnd": 1525789800000,
+    "dateStart": 1525780800000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1525872600000,
+    "dateStart": 1525867200000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1526387400000,
+    "dateStart": 1526385600000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1526473800000,
+    "dateStart": 1526472000000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 1,
+    "dateEnd": 1526909400000,
+    "dateStart": 1526904000000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1526992200000,
+    "dateStart": 1526990400000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1527078600000,
+    "dateStart": 1527076800000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1527251400000,
+    "dateStart": 1527249600000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1527512400000,
+    "dateStart": 1527508800000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1527598800000,
+    "dateStart": 1527595200000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1527683400000,
+    "dateStart": 1527681600000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 8,
+    "week": 6,
+    "dateEnd": 1526122800000,
+    "dateStart": 1526094000000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4.5,
+    "week": 0,
+    "dateEnd": 1526212800000,
+    "dateStart": 1526196600000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4,
+    "week": 6,
+    "dateEnd": 1526715000000,
+    "dateStart": 1526700600000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 6.5,
+    "week": 0,
+    "dateEnd": 1527422400000,
+    "dateStart": 1527399000000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 2,
+    "dateEnd": 1525789800000,
+    "dateStart": 1525780800000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 21,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1525872600000,
+    "dateStart": 1525867200000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0,
+    "week": 4,
+    "dateEnd": 1525953600000,
+    "dateStart": 1525953600000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1526387400000,
+    "dateStart": 1526385600000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 21,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1526473800000,
+    "dateStart": 1526472000000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 1,
+    "dateEnd": 1526909400000,
+    "dateStart": 1526904000000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1527078600000,
+    "dateStart": 1527076800000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1527251400000,
+    "dateStart": 1527249600000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1527512400000,
+    "dateStart": 1527508800000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1527598800000,
+    "dateStart": 1527595200000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 23,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1527683400000,
+    "dateStart": 1527681600000,
+    "department": "互联网研发",
+    "name": "汪亚琪"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 5,
+    "dateEnd": 1525444200000,
+    "dateStart": 1525435200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 6,
+    "week": 6,
+    "dateEnd": 1525510800000,
+    "dateStart": 1525489200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1525786200000,
+    "dateStart": 1525780800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1525874400000,
+    "dateStart": 1525867200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 7,
+    "week": 6,
+    "dateEnd": 1526119200000,
+    "dateStart": 1526094000000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 7,
+    "week": 0,
+    "dateEnd": 1526202000000,
+    "dateStart": 1526176800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1526479200000,
+    "dateStart": 1526472000000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 40,
+    "time": 6,
+    "week": 6,
+    "dateEnd": 1526720400000,
+    "dateStart": 1526698800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1526997600000,
+    "dateStart": 1526990400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1527084000000,
+    "dateStart": 1527076800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4,
+    "week": 6,
+    "dateEnd": 1529746200000,
+    "dateStart": 1529731800000,
+    "department": "互联网研发",
+    "name": "李杰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 5,
+    "week": 0,
+    "dateEnd": 1525617000000,
+    "dateStart": 1525599000000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1525878000000,
+    "dateStart": 1525867200000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 5,
+    "dateEnd": 1526047200000,
+    "dateStart": 1526040000000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1526907600000,
+    "dateStart": 1526904000000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1527510600000,
+    "dateStart": 1527508800000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1527082200000,
+    "dateStart": 1527076800000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1527602400000,
+    "dateStart": 1527595200000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1527688800000,
+    "dateStart": 1527681600000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 18,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1526302800000,
+    "dateStart": 1526299200000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 36,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1526477400000,
+    "dateStart": 1526472000000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1526562000000,
+    "dateStart": 1526558400000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 5,
+    "dateEnd": 1526650200000,
+    "dateStart": 1526644800000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 10,
+    "week": 6,
+    "dateEnd": 1526734800000,
+    "dateStart": 1526698800000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 1,
+    "dateEnd": 1526909400000,
+    "dateStart": 1526904000000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1526994000000,
+    "dateStart": 1526990400000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 33,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1527771600000,
+    "dateStart": 1527768000000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1528461000000,
+    "dateStart": 1528459200000,
+    "department": "互联网研发",
+    "name": "王少鹏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1529931600000,
+    "dateStart": 1529928000000,
+    "department": "互联网研发",
+    "name": "王少鹏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 5,
+    "dateEnd": 1525440600000,
+    "dateStart": 1525435200000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1526387400000,
+    "dateStart": 1526385600000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1526473800000,
+    "dateStart": 1526472000000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1526562000000,
+    "dateStart": 1526558400000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 5,
+    "dateEnd": 1526047200000,
+    "dateStart": 1526040000000,
+    "department": "互联网研发",
+    "name": "赵俊强"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1526301000000,
+    "dateStart": 1526299200000,
+    "department": "互联网研发",
+    "name": "赵俊强"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 6,
+    "dateEnd": 1529726400000,
+    "dateStart": 1529715600000,
+    "department": "互联网研发",
+    "name": "赵俊强"
+  },
+  {
+    "fare": 14,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1525870800000,
+    "dateStart": 1525867200000,
+    "department": "互联网研发",
+    "name": "张宝"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1528376400000,
+    "dateStart": 1528372800000,
+    "department": "互联网研发",
+    "name": "张宝"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 4,
+    "week": 6,
+    "dateEnd": 1530370800000,
+    "dateStart": 1530356400000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2,
+    "week": 0,
+    "dateEnd": 1530412200000,
+    "dateStart": 1530405000000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 1,
+    "dateEnd": 1530538200000,
+    "dateStart": 1530532800000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1531312200000,
+    "dateStart": 1531310400000,
+    "department": "互联网研发",
+    "name": "王少鹏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1532349000000,
+    "dateStart": 1532347200000,
+    "department": "互联网研发",
+    "name": "王少鹏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1533299400000,
+    "dateStart": 1533297600000,
+    "department": "互联网研发",
+    "name": "刘慧敏"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3,
+    "week": 0,
+    "dateEnd": 1534068000000,
+    "dateStart": 1534057200000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1529501460000,
+    "dateStart": 1529496000000,
+    "department": "互联网研发",
+    "name": "张龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 9,
+    "week": 6,
+    "dateEnd": 1530959460000,
+    "dateStart": 1530927000000,
+    "department": "互联网研发",
+    "name": "张龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1528207200000,
+    "dateStart": 1528200000000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1532349000000,
+    "dateStart": 1532347200000,
+    "department": "互联网研发",
+    "name": "梁锋辉"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 1,
+    "dateEnd": 1528725600000,
+    "dateStart": 1528718400000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 9.5,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1530194400000,
+    "dateStart": 1530187200000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1530016200000,
+    "dateStart": 1530014400000,
+    "department": "互联网研发",
+    "name": "李红兵"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1531317600000,
+    "dateStart": 1531310400000,
+    "department": "互联网研发",
+    "name": "杨卓"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1528201800000,
+    "dateStart": 1528200000000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 2,
+    "week": 1,
+    "dateEnd": 1528120800000,
+    "dateStart": 1528113600000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1528374600000,
+    "dateStart": 1528372800000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1528470000000,
+    "dateStart": 1528459200000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1529584200000,
+    "dateStart": 1529582400000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1528720200000,
+    "dateStart": 1528718400000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 12.5,
+    "week": 3,
+    "dateEnd": 1533774600000,
+    "dateStart": 1533729600000,
+    "department": "互联网研发",
+    "name": "任玉陶"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1529929800000,
+    "dateStart": 1529928000000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 15.1,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1529584200000,
+    "dateStart": 1529582400000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1530016200000,
+    "dateStart": 1530014400000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 15.4,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1529929800000,
+    "dateStart": 1529928000000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1530622800000,
+    "dateStart": 1530619200000,
+    "department": "互联网研发",
+    "name": "李红兵"
+  },
+  {
+    "fare": 14,
+    "mealFee": 40,
+    "time": 7.5,
+    "week": 2,
+    "dateEnd": 1528227000000,
+    "dateStart": 1528200000000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 14.28,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1530534600000,
+    "dateStart": 1530532800000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1530711000000,
+    "dateStart": 1530705600000,
+    "department": "互联网研发",
+    "name": "李红兵"
+  },
+  {
+    "fare": 15.77,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1530622800000,
+    "dateStart": 1530619200000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 1,
+    "dateEnd": 1528727400000,
+    "dateStart": 1528718400000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 2,
+    "dateEnd": 1530630000000,
+    "dateStart": 1530619200000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 17.07,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1530716400000,
+    "dateStart": 1530705600000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1530797400000,
+    "dateStart": 1530792000000,
+    "department": "互联网研发",
+    "name": "李红兵"
+  },
+  {
+    "fare": 14,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1529497800000,
+    "dateStart": 1529496000000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 14.14,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1530793800000,
+    "dateStart": 1530792000000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 5,
+    "dateEnd": 1530882000000,
+    "dateStart": 1530878400000,
+    "department": "互联网研发",
+    "name": "李红兵"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4.5,
+    "week": 2,
+    "dateEnd": 1531845000000,
+    "dateStart": 1531828800000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 14,
+    "mealFee": 40,
+    "time": 6,
+    "week": 3,
+    "dateEnd": 1530122400000,
+    "dateStart": 1530100800000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 9,
+    "week": 6,
+    "dateEnd": 1530959400000,
+    "dateStart": 1530927000000,
+    "department": "互联网研发",
+    "name": "李红兵"
+  },
+  {
+    "fare": 17.62,
+    "mealFee": 20,
+    "time": 11,
+    "week": 6,
+    "dateEnd": 1530975600000,
+    "dateStart": 1530936000000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1531139400000,
+    "dateStart": 1531137600000,
+    "department": "互联网研发",
+    "name": "李红兵"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1531920600000,
+    "dateStart": 1531915200000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 15.99,
+    "mealFee": 20,
+    "time": 2,
+    "week": 1,
+    "dateEnd": 1531144800000,
+    "dateStart": 1531137600000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 1,
+    "dateEnd": 1532352600000,
+    "dateStart": 1532347200000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1531830600000,
+    "dateStart": 1531828800000,
+    "department": "互联网研发",
+    "name": "李红兵"
+  },
+  {
+    "fare": 14,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1531926000000,
+    "dateStart": 1531915200000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 13.38,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1531312200000,
+    "dateStart": 1531310400000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1532439000000,
+    "dateStart": 1532433600000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1531917000000,
+    "dateStart": 1531915200000,
+    "department": "互联网研发",
+    "name": "李红兵"
+  },
+  {
+    "fare": 12,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1532437200000,
+    "dateStart": 1532433600000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 12.04,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1531832400000,
+    "dateStart": 1531828800000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1532521800000,
+    "dateStart": 1532520000000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1532003400000,
+    "dateStart": 1532001600000,
+    "department": "互联网研发",
+    "name": "李红兵"
+  },
+  {
+    "fare": 14.06,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1531917000000,
+    "dateStart": 1531915200000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1532608200000,
+    "dateStart": 1532606400000,
+    "department": "互联网研发",
+    "name": "邢盼"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1532435400000,
+    "dateStart": 1532433600000,
+    "department": "互联网研发",
+    "name": "李红兵"
+  },
+  {
+    "fare": 11.59,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1532005200000,
+    "dateStart": 1532001600000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 15.04,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1532350800000,
+    "dateStart": 1532347200000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 14.14,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1532437200000,
+    "dateStart": 1532433600000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1530275400000,
+    "dateStart": 1530273600000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 14.14,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1532608200000,
+    "dateStart": 1532606400000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 16.3,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1532953800000,
+    "dateStart": 1532952000000,
+    "department": "互联网研发",
+    "name": "韦姣姣"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1533308400000,
+    "dateStart": 1533297600000,
+    "department": "互联网研发",
+    "name": "郝坤晗"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1530621000000,
+    "dateStart": 1530619200000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1532003400000,
+    "dateStart": 1532001600000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 10,
+    "week": 6,
+    "dateEnd": 1533992400000,
+    "dateStart": 1533956400000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 0,
+    "dateEnd": 1534062600000,
+    "dateStart": 1534053600000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1534251600000,
+    "dateStart": 1534248000000,
+    "department": "互联网研发",
+    "name": "余贤金"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1532439000000,
+    "dateStart": 1532433600000,
+    "department": "互联网研发",
+    "name": "丁曈"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4.5,
+    "week": 1,
+    "dateEnd": 1531758660000,
+    "dateStart": 1531742400000,
+    "department": "互联网研发",
+    "name": "陈鹏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4,
+    "week": 2,
+    "dateEnd": 1531843320000,
+    "dateStart": 1531828800000,
+    "department": "互联网研发",
+    "name": "陈鹏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1531926000000,
+    "dateStart": 1531915200000,
+    "department": "互联网研发",
+    "name": "陈鹏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1532005200000,
+    "dateStart": 1532001600000,
+    "department": "互联网研发",
+    "name": "陈鹏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1532349000000,
+    "dateStart": 1532347200000,
+    "department": "互联网研发",
+    "name": "陈鹏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1532440800000,
+    "dateStart": 1532433600000,
+    "department": "互联网研发",
+    "name": "陈鹏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1528203600000,
+    "dateStart": 1528200000000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1530536400000,
+    "dateStart": 1530532800000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1531832400000,
+    "dateStart": 1531828800000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1532437200000,
+    "dateStart": 1532433600000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 8,
+    "week": 0,
+    "dateEnd": 1528628400000,
+    "dateStart": 1528599600000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 14,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 1,
+    "dateEnd": 1528723800000,
+    "dateStart": 1528718400000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 16,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1529931600000,
+    "dateStart": 1529928000000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1530622800000,
+    "dateStart": 1530619200000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1531926000000,
+    "dateStart": 1531915200000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 5,
+    "week": 1,
+    "dateEnd": 1531760400000,
+    "dateStart": 1531742400000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 2,
+    "dateEnd": 1532444400000,
+    "dateStart": 1532433600000,
+    "department": "互联网研发",
+    "name": "张乐乐"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1531926000000,
+    "dateStart": 1531915200000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1532523600000,
+    "dateStart": 1532520000000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 5,
+    "week": 0,
+    "dateEnd": 1532851200000,
+    "dateStart": 1532833200000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1532953800000,
+    "dateStart": 1532952000000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1534249800000,
+    "dateStart": 1534248000000,
+    "department": "互联网研发",
+    "name": "梁博"
+  },
+  {
+    "fare": 15.7,
+    "mealFee": 20,
+    "time": 2,
+    "week": 5,
+    "dateEnd": 1531490400000,
+    "dateStart": 1531483200000,
+    "department": "互联网研发",
+    "name": "马晓佩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 5,
+    "dateEnd": 1530279000000,
+    "dateStart": 1530273600000,
+    "department": "互联网研发",
+    "name": "马晓佩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1529501400000,
+    "dateStart": 1529496000000,
+    "department": "互联网研发",
+    "name": "马晓佩"
+  },
+  {
+    "fare": 40,
+    "mealFee": 20,
+    "time": 5,
+    "week": 1,
+    "dateEnd": 1531760400000,
+    "dateStart": 1531742400000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 40,
+    "mealFee": 40,
+    "time": 5,
+    "week": 2,
+    "dateEnd": 1531846800000,
+    "dateStart": 1531828800000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1531926000000,
+    "dateStart": 1531915200000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1532437200000,
+    "dateStart": 1532433600000,
+    "department": "互联网研发",
+    "name": "刘全伟"
+  },
+  {
+    "fare": 30,
+    "mealFee": 40,
+    "time": 8,
+    "week": 6,
+    "dateEnd": 1529141400000,
+    "dateStart": 1529112600000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 25,
+    "mealFee": 40,
+    "time": 8,
+    "week": 1,
+    "dateEnd": 1529312400000,
+    "dateStart": 1529283600000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.7,
+    "week": 5,
+    "dateEnd": 1530880800000,
+    "dateStart": 1530878400000,
+    "department": "互联网研发",
+    "name": "张宝"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1531918800000,
+    "dateStart": 1531915200000,
+    "department": "互联网研发",
+    "name": "张宝"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.1,
+    "week": 2,
+    "dateEnd": 1533647100000,
+    "dateStart": 1533643200000,
+    "department": "互联网研发",
+    "name": "张宝"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1529931600000,
+    "dateStart": 1529928000000,
+    "department": "互联网研发",
+    "name": "刘玮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 9.1,
+    "week": 6,
+    "dateEnd": 1529746500000,
+    "dateStart": 1529713800000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 8,
+    "week": 6,
+    "dateEnd": 1530349200000,
+    "dateStart": 1530320400000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 9,
+    "week": 6,
+    "dateEnd": 1530955800000,
+    "dateStart": 1530923400000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.8,
+    "week": 5,
+    "dateEnd": 1530280200000,
+    "dateStart": 1530273600000,
+    "department": "互联网研发",
+    "name": "张龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 5,
+    "dateEnd": 1530279000000,
+    "dateStart": 1530273600000,
+    "department": "互联网研发",
+    "name": "高佩"
+  },
+  {
+    "fare": 28,
+    "mealFee": 20,
+    "time": 5,
+    "week": 1,
+    "dateEnd": 1531760400000,
+    "dateStart": 1531742400000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 28,
+    "mealFee": 20,
+    "time": 4,
+    "week": 2,
+    "dateEnd": 1531843200000,
+    "dateStart": 1531828800000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 3,
+    "dateEnd": 1529501400000,
+    "dateStart": 1529496000000,
+    "department": "互联网研发",
+    "name": "高佩"
+  },
+  {
+    "fare": 29,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1531926000000,
+    "dateStart": 1531915200000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 5,
+    "dateEnd": 1531490400000,
+    "dateStart": 1531483200000,
+    "department": "互联网研发",
+    "name": "高佩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1532007000000,
+    "dateStart": 1532001600000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 29,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1532003400000,
+    "dateStart": 1532001600000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 25,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1532349000000,
+    "dateStart": 1532347200000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 1,
+    "dateEnd": 1528120800000,
+    "dateStart": 1528113600000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 28,
+    "mealFee": 20,
+    "time": 3,
+    "week": 2,
+    "dateEnd": 1532444400000,
+    "dateStart": 1532433600000,
+    "department": "互联网研发",
+    "name": "兰佳宁"
+  },
+  {
+    "fare": 8.5,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1532610000000,
+    "dateStart": 1532606400000,
+    "department": "互联网研发",
+    "name": "高佩"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.1,
+    "week": 2,
+    "dateEnd": 1531832580000,
+    "dateStart": 1531828800000,
+    "department": "互联网研发",
+    "name": "李建平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 13,
+    "week": 2,
+    "dateEnd": 1528246800000,
+    "dateStart": 1528200000000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 8.5,
+    "mealFee": 20,
+    "time": 3,
+    "week": 1,
+    "dateEnd": 1528729200000,
+    "dateStart": 1528718400000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 20.3,
+    "mealFee": 40,
+    "time": 6,
+    "week": 3,
+    "dateEnd": 1530122400000,
+    "dateStart": 1530100800000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 14,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1531312200000,
+    "dateStart": 1531310400000,
+    "department": "互联网研发",
+    "name": "杨斌"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1531314000000,
+    "dateStart": 1531310400000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1531926000000,
+    "dateStart": 1531915200000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 0,
+    "dateEnd": 1532242800000,
+    "dateStart": 1532237400000,
+    "department": "互联网研发",
+    "name": "刘旭峰"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4,
+    "week": 1,
+    "dateEnd": 1531756800000,
+    "dateStart": 1531742400000,
+    "department": "互联网研发",
+    "name": "邓文高"
+  },
+  {
+    "fare": 9.5,
+    "mealFee": 20,
+    "time": 4,
+    "week": 2,
+    "dateEnd": 1531843200000,
+    "dateStart": 1531828800000,
+    "department": "互联网研发",
+    "name": "邓文高"
+  },
+  {
+    "fare": 13,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1531926000000,
+    "dateStart": 1531915200000,
+    "department": "互联网研发",
+    "name": "邓文高"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 1,
+    "dateEnd": 1528120800000,
+    "dateStart": 1528113600000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 11,
+    "week": 2,
+    "dateEnd": 1528239600000,
+    "dateStart": 1528200000000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 6,
+    "week": 4,
+    "dateEnd": 1530208800000,
+    "dateStart": 1530187200000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 13.5,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1530793800000,
+    "dateStart": 1530792000000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 16.5,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1531314000000,
+    "dateStart": 1531310400000,
+    "department": "互联网研发",
+    "name": "卫龙"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1534163400000,
+    "dateStart": 1534161600000,
+    "department": "互联网研发",
+    "name": "刘慧敏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 5,
+    "week": 6,
+    "dateEnd": 1528545600000,
+    "dateStart": 1528527600000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4.5,
+    "week": 0,
+    "dateEnd": 1528635600000,
+    "dateStart": 1528619400000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1528722000000,
+    "dateStart": 1528718400000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1528893000000,
+    "dateStart": 1528891200000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1528981200000,
+    "dateStart": 1528977600000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1529411400000,
+    "dateStart": 1529409600000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1529497800000,
+    "dateStart": 1529496000000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 4,
+    "dateEnd": 1529587800000,
+    "dateStart": 1529582400000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1529670600000,
+    "dateStart": 1529668800000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1529929800000,
+    "dateStart": 1529928000000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1530104400000,
+    "dateStart": 1530100800000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 0,
+    "dateEnd": 1529847000000,
+    "dateStart": 1529836200000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1530016200000,
+    "dateStart": 1530014400000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 7.5,
+    "week": 6,
+    "dateEnd": 1529755200000,
+    "dateStart": 1529728200000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1530622800000,
+    "dateStart": 1530619200000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1530716400000,
+    "dateStart": 1530705600000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1530795600000,
+    "dateStart": 1530792000000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 12.5,
+    "week": 6,
+    "dateEnd": 1530977400000,
+    "dateStart": 1530932400000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 1,
+    "dateEnd": 1531144800000,
+    "dateStart": 1531137600000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4,
+    "week": 6,
+    "dateEnd": 1531562400000,
+    "dateStart": 1531548000000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1532435400000,
+    "dateStart": 1532433600000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 6,
+    "dateEnd": 1532773800000,
+    "dateStart": 1532766600000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4.5,
+    "week": 0,
+    "dateEnd": 1532860200000,
+    "dateStart": 1532844000000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 5,
+    "dateEnd": 1530883800000,
+    "dateStart": 1530878400000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 1,
+    "dateEnd": 1532957400000,
+    "dateStart": 1532952000000,
+    "department": "互联网研发",
+    "name": "王希茹"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1532530800000,
+    "dateStart": 1532520000000,
+    "department": "互联网研发",
+    "name": "王其凡"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 1,
+    "dateEnd": 1531756740000,
+    "dateStart": 1531744200000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 17,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 2,
+    "dateEnd": 1531843140000,
+    "dateStart": 1531830600000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 3,
+    "dateEnd": 1531925940000,
+    "dateStart": 1531917000000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 6,
+    "dateEnd": 1529722800000,
+    "dateStart": 1529715600000,
+    "department": "互联网研发",
+    "name": "王磊"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 5,
+    "dateEnd": 1527863400000,
+    "dateStart": 1527854400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 5,
+    "dateEnd": 1532095200000,
+    "dateStart": 1532088000000,
+    "department": "互联网研发",
+    "name": "王磊"
+  },
+  {
+    "fare": 30,
+    "mealFee": 40,
+    "time": 7.5,
+    "week": 6,
+    "dateEnd": 1527931800000,
+    "dateStart": 1527904800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 1,
+    "dateEnd": 1528126200000,
+    "dateStart": 1528113600000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 2,
+    "dateEnd": 1528212600000,
+    "dateStart": 1528200000000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 4,
+    "dateEnd": 1528385400000,
+    "dateStart": 1528372800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 5,
+    "dateEnd": 1528464600000,
+    "dateStart": 1528459200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 40,
+    "time": 6.5,
+    "week": 6,
+    "dateEnd": 1528533000000,
+    "dateStart": 1528509600000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.2,
+    "week": 4,
+    "dateEnd": 1532004000000,
+    "dateStart": 1532003400000,
+    "department": "互联网研发",
+    "name": "李尚昆"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1528810200000,
+    "dateStart": 1528804800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 1,
+    "dateEnd": 1532352660000,
+    "dateStart": 1532347200000,
+    "department": "互联网研发",
+    "name": "王磊"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1528894800000,
+    "dateStart": 1528891200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3,
+    "week": 4,
+    "dateEnd": 1528988400000,
+    "dateStart": 1528977600000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 3,
+    "dateEnd": 1532529000000,
+    "dateStart": 1532520000000,
+    "department": "互联网研发",
+    "name": "王磊"
+  },
+  {
+    "fare": 30,
+    "mealFee": 40,
+    "time": 7,
+    "week": 6,
+    "dateEnd": 1529139600000,
+    "dateStart": 1529114400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1531917000000,
+    "dateStart": 1531915200000,
+    "department": "互联网研发",
+    "name": "王磊"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3,
+    "week": 1,
+    "dateEnd": 1529334000000,
+    "dateStart": 1529323200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3,
+    "week": 2,
+    "dateEnd": 1529420400000,
+    "dateStart": 1529409600000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1529503200000,
+    "dateStart": 1529496000000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 2,
+    "week": 4,
+    "dateEnd": 1529589600000,
+    "dateStart": 1529582400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 40,
+    "time": 7,
+    "week": 6,
+    "dateEnd": 1529744400000,
+    "dateStart": 1529719200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3,
+    "week": 1,
+    "dateEnd": 1529938800000,
+    "dateStart": 1529928000000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3,
+    "week": 2,
+    "dateEnd": 1530025200000,
+    "dateStart": 1530014400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3,
+    "week": 3,
+    "dateEnd": 1530111600000,
+    "dateStart": 1530100800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 40,
+    "time": 6,
+    "week": 6,
+    "dateEnd": 1530345600000,
+    "dateStart": 1530324000000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 2,
+    "week": 0,
+    "dateEnd": 1530453600000,
+    "dateStart": 1530446400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 2,
+    "week": 1,
+    "dateEnd": 1530540000000,
+    "dateStart": 1530532800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3,
+    "week": 2,
+    "dateEnd": 1530630000000,
+    "dateStart": 1530619200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3,
+    "week": 4,
+    "dateEnd": 1530802800000,
+    "dateStart": 1530792000000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 40,
+    "time": 6,
+    "week": 6,
+    "dateEnd": 1530950400000,
+    "dateStart": 1530928800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 2,
+    "week": 1,
+    "dateEnd": 1531144800000,
+    "dateStart": 1531137600000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1531231200000,
+    "dateStart": 1531224000000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3,
+    "week": 4,
+    "dateEnd": 1531407600000,
+    "dateStart": 1531396800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1531494000000,
+    "dateStart": 1531483200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 40,
+    "time": 7,
+    "week": 6,
+    "dateEnd": 1531566000000,
+    "dateStart": 1531540800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3,
+    "week": 1,
+    "dateEnd": 1531753200000,
+    "dateStart": 1531742400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3,
+    "week": 2,
+    "dateEnd": 1531839600000,
+    "dateStart": 1531828800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1531922400000,
+    "dateStart": 1531915200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 2,
+    "week": 5,
+    "dateEnd": 1532095200000,
+    "dateStart": 1532088000000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 40,
+    "time": 7,
+    "week": 6,
+    "dateEnd": 1532163600000,
+    "dateStart": 1532138400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 2,
+    "week": 1,
+    "dateEnd": 1532354400000,
+    "dateStart": 1532347200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 2,
+    "week": 2,
+    "dateEnd": 1532440800000,
+    "dateStart": 1532433600000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3,
+    "week": 4,
+    "dateEnd": 1532617200000,
+    "dateStart": 1532606400000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 3,
+    "week": 5,
+    "dateEnd": 1532703600000,
+    "dateStart": 1532692800000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 30,
+    "mealFee": 40,
+    "time": 7,
+    "week": 6,
+    "dateEnd": 1532768400000,
+    "dateStart": 1532743200000,
+    "department": "互联网研发",
+    "name": "王智平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 1,
+    "dateEnd": 1528120800000,
+    "dateStart": 1528113600000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 15,
+    "mealFee": 20,
+    "time": 2,
+    "week": 5,
+    "dateEnd": 1528466400000,
+    "dateStart": 1528459200000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 6,
+    "week": 6,
+    "dateEnd": 1530343800000,
+    "dateStart": 1530322200000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1532349000000,
+    "dateStart": 1532347200000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1533560400000,
+    "dateStart": 1533556800000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 16,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1532439000000,
+    "dateStart": 1532433600000,
+    "department": "互联网研发",
+    "name": "侍世福"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 5,
+    "dateEnd": 1527859800000,
+    "dateStart": 1527854400000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1529931600000,
+    "dateStart": 1529928000000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 8.5,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1528898400000,
+    "dateStart": 1528891200000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1528806600000,
+    "dateStart": 1528804800000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 8.5,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1530707400000,
+    "dateStart": 1530705600000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 16,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1530104400000,
+    "dateStart": 1530100800000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 40,
+    "time": 12.5,
+    "week": 6,
+    "dateEnd": 1530977400000,
+    "dateStart": 1530932400000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 30,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1528981200000,
+    "dateStart": 1528977600000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1530624600000,
+    "dateStart": 1530619200000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0.5,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1531312200000,
+    "dateStart": 1531310400000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 34,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 3,
+    "dateEnd": 1530718200000,
+    "dateStart": 1530705600000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 8.5,
+    "mealFee": 20,
+    "time": 2,
+    "week": 1,
+    "dateEnd": 1531144800000,
+    "dateStart": 1531137600000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1530795600000,
+    "dateStart": 1530792000000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 11,
+    "mealFee": 20,
+    "time": 5,
+    "week": 1,
+    "dateEnd": 1531760400000,
+    "dateStart": 1531742400000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 8.5,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1531834200000,
+    "dateStart": 1531828800000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 4,
+    "week": 2,
+    "dateEnd": 1531843200000,
+    "dateStart": 1531828800000,
+    "department": "互联网研发",
+    "name": "焦亮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1531917000000,
+    "dateStart": 1531915200000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1532003400000,
+    "dateStart": 1532001600000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1532350800000,
+    "dateStart": 1532347200000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1532437200000,
+    "dateStart": 1532433600000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1533040200000,
+    "dateStart": 1533038400000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1533558600000,
+    "dateStart": 1533556800000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 5.5,
+    "week": 3,
+    "dateEnd": 1533749400000,
+    "dateStart": 1533729600000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 8.5,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 4,
+    "dateEnd": 1533825000000,
+    "dateStart": 1533816000000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 1,
+    "dateEnd": 1534170600000,
+    "dateStart": 1534161600000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1534253400000,
+    "dateStart": 1534248000000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1534341600000,
+    "dateStart": 1534334400000,
+    "department": "互联网研发",
+    "name": "陈飞"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1534768200000,
+    "dateStart": 1534766400000,
+    "department": "互联网研发",
+    "name": "刘慧敏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1534422600000,
+    "dateStart": 1534420800000,
+    "department": "互联网研发",
+    "name": "刘慧敏"
+  },
+  {
+    "fare": 10,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 4,
+    "dateEnd": 1535027400000,
+    "dateStart": 1535025600000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 2.5,
+    "week": 1,
+    "dateEnd": 1535380200000,
+    "dateStart": 1535371200000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 20,
+    "mealFee": 20,
+    "time": 3.5,
+    "week": 2,
+    "dateEnd": 1535470200000,
+    "dateStart": 1535457600000,
+    "department": "互联网研发",
+    "name": "刘凯"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1534770000000,
+    "dateStart": 1534766400000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 18.7,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1535373000000,
+    "dateStart": 1535371200000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1535459400000,
+    "dateStart": 1535457600000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 23.2,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1535718600000,
+    "dateStart": 1535716800000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 14.9,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1534856400000,
+    "dateStart": 1534852800000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 2,
+    "week": 3,
+    "dateEnd": 1534341600000,
+    "dateStart": 1534334400000,
+    "department": "互联网研发",
+    "name": "赵俊强"
+  },
+  {
+    "fare": 18.7,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 1,
+    "dateEnd": 1535373000000,
+    "dateStart": 1535371200000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 2,
+    "dateEnd": 1535459400000,
+    "dateStart": 1535457600000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 23.2,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1535718600000,
+    "dateStart": 1535716800000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 19,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 2,
+    "dateEnd": 1536067800000,
+    "dateStart": 1536062400000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 18.1,
+    "mealFee": 20,
+    "time": 1,
+    "week": 4,
+    "dateEnd": 1536238800000,
+    "dateStart": 1536235200000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 4.5,
+    "week": 0,
+    "dateEnd": 1536489000000,
+    "dateStart": 1536472800000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 18.4,
+    "mealFee": 20,
+    "time": 1.5,
+    "week": 1,
+    "dateEnd": 1536586200000,
+    "dateStart": 1536580800000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 18.3,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1536670800000,
+    "dateStart": 1536667200000,
+    "department": "互联网研发",
+    "name": "孙康妮"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 5,
+    "dateEnd": 1536928260000,
+    "dateStart": 1536926400000,
+    "department": "互联网研发",
+    "name": "刘慧敏"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 2,
+    "dateEnd": 1535461200000,
+    "dateStart": 1535457600000,
+    "department": "互联网研发",
+    "name": "李建平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 3,
+    "dateEnd": 1535547600000,
+    "dateStart": 1535544000000,
+    "department": "互联网研发",
+    "name": "李建平"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 0.5,
+    "week": 3,
+    "dateEnd": 1535545800000,
+    "dateStart": 1535544000000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 0,
+    "mealFee": 20,
+    "time": 1,
+    "week": 1,
+    "dateEnd": 1537189200000,
+    "dateStart": 1537185600000,
+    "department": "互联网研发",
+    "name": "王普国"
+  },
+  {
+    "fare": 1,
+    "mealFee": 20,
+    "time": 48,
+    "week": 2,
+    "dateEnd": 1537435740000,
+    "dateStart": 1537262940000,
+    "department": "互联网研发",
+    "name": "测试"
+  }
+]
